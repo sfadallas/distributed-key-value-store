@@ -1,6 +1,5 @@
 Supporting arrow `->` operator on attributes
 ===
-
 Explainer video: TODO
 
 In python, we can define classes and members within in. To access
